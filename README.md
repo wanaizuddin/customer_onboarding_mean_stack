@@ -14,3 +14,6 @@ Start Angular app & install required dependencies
 
 ## Start MongoDB
 - Start your MongoDB service
+
+## Original Author
+Credit to Digamber Rawat
